@@ -8,7 +8,6 @@ module.exports = {
 		if (source != null) {
 			var indexes = data.by_source[source];
 			if (indexes == null) throw new Error("Missing source '" + source + "'");
-
 			return indexes.map(function(i) { return data.all[i]; });
 		} else {
 			return data.all;
@@ -16,9 +15,9 @@ module.exports = {
 	},
 
 	get: function(id) {
+		if (typeof id === "number") return this.data.all[id];
 		var index = this.data.by_id[id];
-		if (index == null) throw new Error("Missing entry with id '" + id + "'");
-		return this.data.all[index];
+		if (index != null) return this.data.all[index];
 	},
 
 	random: function(source) {

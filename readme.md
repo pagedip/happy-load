@@ -16,7 +16,7 @@ The core API is an object with a `data` property representing the contents of `h
 var happy = require("happy-load");
 
 happy.data; // The raw data.
-happy.all([ source ]); // Returns an array of message. Optionally filter by source.
+happy.all([ source ]); // Returns an array of all messages. Optionally filter by source.
 happy.get(id); // Returns a single message by id.
 happy.random([ source ]); // Returns a random message, optionally by source.
 ```

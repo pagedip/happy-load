@@ -56,8 +56,8 @@ exports.build = function(spec) {
 					// index the id attribute
 					data.by_id[load.id] = index;
 				})
-				.then(function(){
-					return JSON.stringify(data, null, 2);
+				.then(function() {
+					return JSON.stringify(data, null, "\t");
 				});
 		});
 	});
