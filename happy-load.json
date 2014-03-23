@@ -1,10 +1,10 @@
 {
 	"all": [
 		{
-			"text": "Like a timid ghost or a 1997 text message",
+			"text": "Like a timid ghost or a 1997 text message.",
 			"subtext": "This may take a moment to appear.",
 			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/timidghost"
+			"id": "go.beneaththeink.com/timid-ghost"
 		},
 		{
 			"text": "Collecting unicorn tears...",
@@ -27,7 +27,7 @@
 		]
 	},
 	"by_id": {
-		"go.beneaththeink.com/timidghost": 0,
+		"go.beneaththeink.com/timid-ghost": 0,
 		"go.beneaththeink.com/unicorns": 1,
 		"go.beneaththeink.com/yellow-brick-road": 2
 	}
