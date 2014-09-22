@@ -1,0 +1,2 @@
+text: Like a timid ghost or a 1997 text message
+subtext: This may take a moment to appear.

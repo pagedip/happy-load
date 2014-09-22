@@ -3,54 +3,54 @@
 		{
 			"text": "Bob Ross is painting the next page",
 			"subtext": "He'll have the happy little trees trees done in a moment",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/bobross"
+			"source": "beneaththeink",
+			"id": "beneaththeink/bobross"
 		},
 		{
 			"text": "200 years ago it took Lewis and Clark several months to across the Country...",
 			"subtext": "I'm taking to space, so give me a second.",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/clark"
+			"source": "beneaththeink",
+			"id": "beneaththeink/clark"
 		},
 		{
 			"text": "Constructing additional pylons...",
 			"subtext": "This may take a moment or two.",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/plyons"
+			"source": "beneaththeink",
+			"id": "beneaththeink/plyons"
 		},
 		{
 			"text": "Our micro-robot technicians are building the next page",
 			"subtext": "They will be done shortly...",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/robot"
+			"source": "beneaththeink",
+			"id": "beneaththeink/robot"
 		},
 		{
 			"text": "Combing John Stamos' Hair...",
 			"subtext": "We apologize for the wait, you can't rush perfection.",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/stamos"
+			"source": "beneaththeink",
+			"id": "beneaththeink/stamos"
 		},
 		{
 			"text": "Like a timid ghost or a 1997 text message",
 			"subtext": "This may take a moment to appear.",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/timidghost"
+			"source": "beneaththeink",
+			"id": "beneaththeink/timidghost"
 		},
 		{
 			"text": "Collecting unicorn tears...",
 			"subtext": "This may take a moment or two.",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/unicorns"
+			"source": "beneaththeink",
+			"id": "beneaththeink/unicorns"
 		},
 		{
 			"text": "Following the Yellow Brick Road...",
 			"subtext": "\"Toto, I've got a feeling we're not in Kansas anymore.\"",
-			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/yellow-brick-road"
+			"source": "beneaththeink",
+			"id": "beneaththeink/yellow-brick-road"
 		}
 	],
 	"by_source": {
-		"go.beneaththeink.com": [
+		"beneaththeink": [
 			0,
 			1,
 			2,
@@ -62,13 +62,13 @@
 		]
 	},
 	"by_id": {
-		"go.beneaththeink.com/bobross": 0,
-		"go.beneaththeink.com/clark": 1,
-		"go.beneaththeink.com/plyons": 2,
-		"go.beneaththeink.com/robot": 3,
-		"go.beneaththeink.com/stamos": 4,
-		"go.beneaththeink.com/timidghost": 5,
-		"go.beneaththeink.com/unicorns": 6,
-		"go.beneaththeink.com/yellow-brick-road": 7
+		"beneaththeink/bobross": 0,
+		"beneaththeink/clark": 1,
+		"beneaththeink/plyons": 2,
+		"beneaththeink/robot": 3,
+		"beneaththeink/stamos": 4,
+		"beneaththeink/timidghost": 5,
+		"beneaththeink/unicorns": 6,
+		"beneaththeink/yellow-brick-road": 7
 	}
 }

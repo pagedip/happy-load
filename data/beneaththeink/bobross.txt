@@ -1,0 +1,2 @@
+text: Bob Ross is painting the next page
+subtext: He'll have the happy little trees trees done in a moment
