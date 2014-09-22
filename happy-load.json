@@ -1,10 +1,40 @@
 {
 	"all": [
 		{
-			"text": "Like a timid ghost or a 1997 text message.",
+			"text": "Bob Ross is painting the next page",
+			"subtext": "He'll have the happy little trees trees done in a moment",
+			"source": "go.beneaththeink.com",
+			"id": "go.beneaththeink.com/bobross"
+		},
+		{
+			"text": "200 years ago it took Lewis and Clark several months to across the Country...",
+			"subtext": "I'm taking to space, so give me a second.",
+			"source": "go.beneaththeink.com",
+			"id": "go.beneaththeink.com/clark"
+		},
+		{
+			"text": "Constructing additional pylons...",
+			"subtext": "This may take a moment or two.",
+			"source": "go.beneaththeink.com",
+			"id": "go.beneaththeink.com/plyons"
+		},
+		{
+			"text": "Our micro-robot technicians are building the next page",
+			"subtext": "They will be done shortly...",
+			"source": "go.beneaththeink.com",
+			"id": "go.beneaththeink.com/robot"
+		},
+		{
+			"text": "Combing John Stamos' Hair...",
+			"subtext": "We apologize for the wait, you can't rush perfection.",
+			"source": "go.beneaththeink.com",
+			"id": "go.beneaththeink.com/stamos"
+		},
+		{
+			"text": "Like a timid ghost or a 1997 text message",
 			"subtext": "This may take a moment to appear.",
 			"source": "go.beneaththeink.com",
-			"id": "go.beneaththeink.com/timid-ghost"
+			"id": "go.beneaththeink.com/timidghost"
 		},
 		{
 			"text": "Collecting unicorn tears...",
@@ -23,12 +53,22 @@
 		"go.beneaththeink.com": [
 			0,
 			1,
-			2
+			2,
+			3,
+			4,
+			5,
+			6,
+			7
 		]
 	},
 	"by_id": {
-		"go.beneaththeink.com/timid-ghost": 0,
-		"go.beneaththeink.com/unicorns": 1,
-		"go.beneaththeink.com/yellow-brick-road": 2
+		"go.beneaththeink.com/bobross": 0,
+		"go.beneaththeink.com/clark": 1,
+		"go.beneaththeink.com/plyons": 2,
+		"go.beneaththeink.com/robot": 3,
+		"go.beneaththeink.com/stamos": 4,
+		"go.beneaththeink.com/timidghost": 5,
+		"go.beneaththeink.com/unicorns": 6,
+		"go.beneaththeink.com/yellow-brick-road": 7
 	}
 }
