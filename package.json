@@ -1,6 +1,6 @@
 {
 	"name": "happy-load",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Improves loading screen morale.",
 	"author": "Beneath the Ink <info@beneaththeink.com>",
 	"contributors": [ 
@@ -13,10 +13,12 @@
 		"type": "git",
 		"url": "https://github.com/BeneathTheInk/happy-load.git"
 	},
+	"scripts": {
+		"build": "node build.js"
+	},
 	"devDependencies": {
-		"fez": "1.0.8",
-		"bluebird": "1.0.8",
-		"js-yaml": "3.0.2"
+		"bluebird": "2.3.2",
+		"js-yaml": "3.2.2"
 	},
 	"bugs": {
 		"url": "http://github.com/BeneathTheInk/happy-load/issues"
