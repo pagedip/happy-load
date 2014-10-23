@@ -1,6 +1,6 @@
 # Happy Load
 
-This is a collection of loading screen messages. We're not a fan of dull loading screens, so we created this repository to hold a  collection of entertaining messages to show users while they wait. The raw data is kept in the data folder and categorized by source (usually a domain). We have the pre-compiled the raw data into the file `happy-load.json` for easy consumption.
+This is a collection of loading screen messages. We're not a fan of dull loading screens, so we created this repository to hold a  collection of entertaining messages to show users while they wait. The raw data is kept in the data folder and categorized by source (usually a domain). We have the pre-compiled the raw data into the file `lib/happy-load.json` for easy consumption.
 
 If you have loading messages you'd like to add, please submit a pull request!
 
