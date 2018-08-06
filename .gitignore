@@ -1,2 +1,4 @@
 node_modules/
-data/happy-load.json
+/happy-load.json
+docs/
+lib/
