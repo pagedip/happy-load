@@ -35,7 +35,7 @@
 		"npm-run-all": "^4.1.3",
 		"shx": "^0.3.2",
 		"tslint": "^5.11.0",
-		"type-doc": "^0.1.41",
+		"typedoc": "^0.11.1",
 		"typescript": "^2.8.4"
 	},
 	"license": "MIT",
