@@ -14,6 +14,7 @@
 		"url": "http://github.com/pagedip/happy-load/issues"
 	},
 	"main": "lib/index.js",
+	"typings": "lib/index.d.ts",
 	"scripts": {
 		"lint": "tslint -p tsconfig.json -c tslint.json '**/*.ts'",
 		"clean": "shx rm -rf lib",
