@@ -13,7 +13,7 @@
     "inlineSourceMap": true,
     "inlineSources": true,
     "types": [
-      "node"
+      "node", "jest"
     ],
     "lib": [
       "es5", "es6", "es7", "dom",
