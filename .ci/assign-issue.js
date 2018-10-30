@@ -126,7 +126,7 @@ When ready, open a new pull-request into the \`master\` branch.
 
 - Add \`closes #${issuenum}\` to your commit message to automatically close this issue when merged.
 - Reference this commit (#${issuenum}) in your pull-request message.
-- Assign @tyler-johnson so I can review and merge it.`;
+- Assign @${REVIEWER} so I can review and merge it.`;
 
   await github.issues.edit({
     owner: REPO_OWNER,
