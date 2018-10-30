@@ -1,3 +1,18 @@
+## [2.1.0](https://github.com/pagedip/happy-load/tree/release/2/) - Oct 30, 2018
+
+### Features
+- add pagedip/refueling-thrusters message
+
+### Commits
+[`b8677e47..b0f80f75`](https://github.com/pagedip/happy-load/compare/b8677e4715528df6abe836f78f64358b3d98fc69..b0f80f751f524cb9050d7f50c64e6c87e5c892aa)
+- [`b0f80f75`](https://github.com/pagedip/happy-load/commit/b0f80f751f524cb9050d7f50c64e6c87e5c892aa) Merge pull request #11 from pagedip/message-10
+- [`9008a03b`](https://github.com/pagedip/happy-load/commit/9008a03bb081ed7fce1865f15eb2a49a5bf754f9) upgrade release file
+- [`5c224332`](https://github.com/pagedip/happy-load/commit/5c224332c70ad74c12ce06b54ec105d87f0bb8cc) add pagedip loading message (closes #10)
+- [`8299b14f`](https://github.com/pagedip/happy-load/commit/8299b14fa5afc1682531f030c16b346978073977) Merge pull request #9 from pagedip/dev
+- [`731a1f63`](https://github.com/pagedip/happy-load/commit/731a1f63fa9037959bf0d365dc23ad49d4e83376) Merge branch 'master' of https://github.com/pagedip/happy-load into dev
+- [`7bc636a4`](https://github.com/pagedip/happy-load/commit/7bc636a4facf0e7349d10b0d61d4faadc9eb044f) correct label on assigned issue
+
+
 ## [2.0.2](https://github.com/pagedip/happy-load/tree/release/1/) - Oct 30, 2018
 
 ### Fixes
