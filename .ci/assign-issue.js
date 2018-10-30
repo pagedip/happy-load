@@ -17,7 +17,7 @@ const USERNAMES = [
 const REVIEWER = "tyler-johnson";
 
 // a label assigned to the issue, used to identify previous issues
-const LABEL = "loading-message-duty-test";
+const LABEL = "loading-message-duty";
 
 /**
  * Script
