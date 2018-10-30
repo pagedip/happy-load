@@ -106,8 +106,9 @@ It's your turn to add a new loading message happy-load. Please open a pull-reque
 To add a loading message:
 
 1. Clone this repository.
-2. Create a new branch from master.
-3. Add a new YAML file to the \`data/pagedip\` directory.
+2. Checkout a new branch from master.
+3. Create a new YAML file in the \`data/pagedip\` directory with your loading message.
+4. Add a feature to \`RELEASE.yml\` so a minor version will be published.
 
 This file should have the following format:
 
