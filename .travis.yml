@@ -6,13 +6,20 @@ cache:
 notifications:
   email: false
 node_js:
-  - '8'
-env:
-  - SKIP_TRAVIS_WAIT=true
+  - '10'
 before_install:
-  - npm i -g npm@latest
-after_success:
-  - npm run autorelease
+  - 'npm config set //registry.npmjs.org/:_authToken $NPM_TOKEN'
+jobs:
+  include:
+    - stage: release
+      if: 'type = pull_request OR branch = master'
+      script:
+        - npm test
+        - npm run autorelease -- --expanded
+    - stage: message-duty
+      if: 'type = cron'
+      script:
+        - node .ci/assign-issue.js
 branches:
   only:
     - "master"
