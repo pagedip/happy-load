@@ -12,12 +12,12 @@ before_install:
 jobs:
   include:
     - stage: release
-      if: 'type = pull_request OR branch = master'
+      if: "((type = push AND branch = master) OR type = pull_request) AND NOT commit_message =~ /\\[autorelease\\]/"
       script:
         - npm test
-        - npm run autorelease -- --expanded
+        - npm run autorelease -- --expanded --no-skip-build
     - stage: message-duty
-      if: 'type = cron'
+      if: 'type = cron AND branch = master'
       script:
         - node .ci/assign-issue.js
 branches:
