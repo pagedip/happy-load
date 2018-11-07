@@ -24,7 +24,7 @@
 		"build:typescript": "tsc -p tsconfig.json",
 		"build": "npm-run-all build:data build:typescript build:docs",
 		"test": "jest",
-		"prepare": "npm run build",
+		"prepare": "npm-run-all build",
 		"autorelease": "pagedip-autorelease"
 	},
 	"devDependencies": {

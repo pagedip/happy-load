@@ -6,13 +6,21 @@ cache:
 node_js:
   - '10'
 before_install:
+  # update yarn and npm
+  - npm i npm -g
+  - curl -o- -L https://yarnpkg.com/install.sh | bash
+  - export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+  - echo "npm $(npm -v)" && echo "yarn $(yarn -v)"
+  # authenticate the registry
   - 'npm config set //registry.npmjs.org/:_authToken $NPM_TOKEN'
+install:
+  - yarn
 jobs:
   include:
     - stage: release
       if: "((type = push AND branch = master) OR type = pull_request) AND NOT commit_message =~ /\\[autorelease\\]/"
       script:
-        - npm test
+        - yarn test
         - npm run autorelease -- --expanded --no-skip-build
     - stage: message-duty
       if: 'type = cron AND branch = master'
