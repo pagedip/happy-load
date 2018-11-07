@@ -10,7 +10,8 @@ const REPO_HANDLE = "happy-load";
 const USERNAMES = [
   "tyler-johnson",
   "NoahWilson4",
-  "YangusKhan"
+  "YangusKhan",
+  "Delvach"
 ];
 
 // user responsible for reviewing opened pull-requests
@@ -126,7 +127,8 @@ When ready, open a new pull-request into the \`master\` branch.
 
 - Add \`closes #${issuenum}\` to your commit message to automatically close this issue when merged.
 - Reference this commit (#${issuenum}) in your pull-request message.
-- Assign @${REVIEWER} so I can review and merge it.`;
+- Assign @${REVIEWER} so I can review and merge it.
+- Take a look at #11 for an example pull-request.`;
 
   await github.issues.edit({
     owner: REPO_OWNER,
