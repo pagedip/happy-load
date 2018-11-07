@@ -10,7 +10,8 @@ const REPO_HANDLE = "happy-load";
 const USERNAMES = [
   "tyler-johnson",
   "NoahWilson4",
-  "YangusKhan"
+  "YangusKhan",
+  "Delvach"
 ];
 
 // user responsible for reviewing opened pull-requests
