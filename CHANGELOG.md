@@ -1,3 +1,23 @@
+## [2.2.0](https://github.com/pagedip/happy-load/tree/release/3/) - Nov 13, 2018
+
+### Features
+- new message in pagedip/spinning.yml
+
+### Commits
+[`cf4bf05a..b36c5156`](https://github.com/pagedip/happy-load/compare/cf4bf05aa68522dfa73b79d9fbb6f867407de18f..b36c5156d6f1820c4aed68efee25f654015fd8b3)
+- [`b36c5156`](https://github.com/pagedip/happy-load/commit/b36c5156d6f1820c4aed68efee25f654015fd8b3) Merge pull request #15 from pagedip/13-new-message
+- [`9902eace`](https://github.com/pagedip/happy-load/commit/9902eace1a6717b52bc3db0bfabe8a33c27c72c0) closes #13
+- [`bfc119f1`](https://github.com/pagedip/happy-load/commit/bfc119f1839a4d9a8fc185a9324ffa527ab9f8c6) new message
+- [`c47d430e`](https://github.com/pagedip/happy-load/commit/c47d430e8bdbea9e4baa3d86e1eafabdc4f18106) Merge pull request #14 from pagedip/dev
+- [`b467ba9c`](https://github.com/pagedip/happy-load/commit/b467ba9c4da7e04670cc2933df22d0bb35cd6977) add #11 as an example pull-request
+- [`fd947880`](https://github.com/pagedip/happy-load/commit/fd94788015af9b85d009a8d76ae61b344e062e04) switch to yarn
+- [`97e02f80`](https://github.com/pagedip/happy-load/commit/97e02f80fb43435e124eb5bff64d63c8e952a959) Merge branch 'master' of https://github.com/pagedip/happy-load into dev
+- [`f55cc4be`](https://github.com/pagedip/happy-load/commit/f55cc4be0f1ea819374ca239d7ea6dbc77333433) add Ben to loading message duty
+- [`3e2a3fbe`](https://github.com/pagedip/happy-load/commit/3e2a3fbee3eca628696950886f51b6617682c582) enable build notifications
+- [`d27c7cc9`](https://github.com/pagedip/happy-load/commit/d27c7cc91164366b00bed1563547130e04dfee7e) Merge pull request #12 from pagedip/dev
+- [`11ec3680`](https://github.com/pagedip/happy-load/commit/11ec36801e71d20546c0f133e8ef51ba29966531) use reviewer var
+
+
 ## [2.1.0](https://github.com/pagedip/happy-load/tree/release/2/) - Oct 30, 2018
 
 ### Features
