@@ -81,7 +81,7 @@ Promise.resolve().then(async () => {
 
     // round-robin assign for the next issue
     if (last.assignee) {
-      console.log(`Last issue was assigned to ${last.assignee.login}`);
+      console.log(`Last issue was assigned to @${last.assignee.login}`);
       nextUsernameIndex = (USERNAMES.indexOf(last.assignee.login) + 1) % USERNAMES.length;
     }
   }
