@@ -37,15 +37,22 @@ github.authenticate({
   token: process.env.GH_TOKEN
 });
 
+// time right now
 const now = DateTime.local();
+
+// midnight, sunday, current week
 const thisWeek = DateTime.fromObject({
   weekYear: now.weekYear,
   weekNumber: now.weekNumber-1,
   weekday: 7,
   zone: "UTC"
 });
+
+// midnight, sunday, week before this one
 const prevWeek = thisWeek.minus({ weeks: 1 });
-const nextWeek = thisWeek.plus({ weeks: 1 });
+
+// one week from right now
+const nextWeek = now.plus({ weeks: 1 });
 
 Promise.resolve().then(async () => {
   const result = await github.issues.getForRepo({
@@ -123,12 +130,12 @@ Here are some other recommendations:
 - The name of the file is the message ID. It should be unique and relative to the loading message itself.
 - Don't plagarize other service's loading messages! It is okay to find inspiration, but all messages should be original.
 
-When ready, open a new pull-request into the \`master\` branch.
+When ready, open a new pull-request into the \`master\` branch. Take a look at #11 for an example pull-request.
 
-- Add \`closes #${issuenum}\` to your commit message to automatically close this issue when merged.
-- Reference this commit (#${issuenum}) in your pull-request message.
-- Assign @${REVIEWER} so I can review and merge it.
-- Take a look at #11 for an example pull-request.`;
+- [ ] Added a new loading message.
+- [ ] Added a feature to the \`RELEASE.yml\` file.
+- [ ] Commited with \`closes #${issuenum}\` in the message to automatically close this issue when merged.
+- [ ] Opened a pull-request against master and assigned @${REVIEWER} to review and merge.`;
 
   await github.issues.edit({
     owner: REPO_OWNER,
