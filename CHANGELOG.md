@@ -1,3 +1,17 @@
+## [2.3.0](https://github.com/pagedip/happy-load/tree/release/4/) - Nov 16, 2018
+
+### Features
+- new message no-roads.yml
+
+### Commits
+[`78105aa5..d560a0f4`](https://github.com/pagedip/happy-load/compare/78105aa5e3a0aa7629654865e6fc9a66f1382010..d560a0f4d30132359bb9ef50d45c7ba8cb7c6e65)
+- [`d560a0f4`](https://github.com/pagedip/happy-load/commit/d560a0f4d30132359bb9ef50d45c7ba8cb7c6e65) Merge pull request #18 from pagedip/16-new-message
+- [`3ace913f`](https://github.com/pagedip/happy-load/commit/3ace913fbbb7df1843aff357dd724921b6e6daf1) closes #16
+- [`259394e6`](https://github.com/pagedip/happy-load/commit/259394e626ccf32c7dda1c3c34803a20c62ae6d4) Merge pull request #17 from pagedip/dev
+- [`3af18009`](https://github.com/pagedip/happy-load/commit/3af180090d0167cd28daffa63da6839c53ba7011) @
+- [`a705a042`](https://github.com/pagedip/happy-load/commit/a705a042ffa0459410f671d312093e307acb82e0) add checklist to weekly issue
+
+
 ## [2.2.0](https://github.com/pagedip/happy-load/tree/release/3/) - Nov 13, 2018
 
 ### Features
