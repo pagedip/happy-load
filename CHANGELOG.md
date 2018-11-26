@@ -1,3 +1,15 @@
+## [2.4.0](https://github.com/pagedip/happy-load/tree/release/5/) - Nov 26, 2018
+
+### Features
+- Adding 404 droids message
+
+### Commits
+[`3ca8ddeb..6c97f2c1`](https://github.com/pagedip/happy-load/compare/3ca8ddebbb759a03231d98c55272e32f664d0eee..6c97f2c19eca62b74fd384235fc36d512aab7bed)
+- [`6c97f2c1`](https://github.com/pagedip/happy-load/commit/6c97f2c19eca62b74fd384235fc36d512aab7bed) Merge pull request #21 from pagedip/ben-alpha
+- [`83b9d5ce`](https://github.com/pagedip/happy-load/commit/83b9d5ce67aa25dc3672bca77d8a94df3f98ab7d) Completing load message. closes #19
+- [`e14cd7d9`](https://github.com/pagedip/happy-load/commit/e14cd7d9a97fdaab63b9b829a5344e4936cb9cf1) Adding new loading screen message
+
+
 ## [2.3.0](https://github.com/pagedip/happy-load/tree/release/4/) - Nov 16, 2018
 
 ### Features
