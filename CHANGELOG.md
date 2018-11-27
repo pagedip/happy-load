@@ -1,3 +1,15 @@
+## [2.5.0](https://github.com/pagedip/happy-load/tree/release/6/) - Nov 27, 2018
+
+### Features
+- add pagedip/browser-monkeys message
+
+### Commits
+[`1778f6e2..77e5b99e`](https://github.com/pagedip/happy-load/compare/1778f6e214bd3d0a3e768f6197c7deca539e5dc0..77e5b99e7c9b9dd5ba2c0053e73d01d4d681d466)
+- [`77e5b99e`](https://github.com/pagedip/happy-load/commit/77e5b99e7c9b9dd5ba2c0053e73d01d4d681d466) Merge pull request #22 from pagedip/20-new-message
+- [`2c1a2c35`](https://github.com/pagedip/happy-load/commit/2c1a2c35a0a159255028d38720e050ab087291b2) typo
+- [`5f008e49`](https://github.com/pagedip/happy-load/commit/5f008e4900070a16d89fe49a53d2207430931486) add pagedip/browser-monkeys message, closes #20
+
+
 ## [2.4.0](https://github.com/pagedip/happy-load/tree/release/5/) - Nov 26, 2018
 
 ### Features
