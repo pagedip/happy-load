@@ -1,3 +1,26 @@
+## [2.6.0](https://github.com/pagedip/happy-load/tree/release/7/) - Dec 14, 2018
+
+### Features
+- new message, lowding.yml
+
+### Dependencies
+- @octokit/rest: `^15.15.1` → `^16.2.0`
+- @pagedip/tool-autorelease: `^3.3.0` → `^3.5.0`
+- @types/jest: `^23.3.8` → `^23.3.10`
+- @types/node: `^10.5.6` → `^10.12.15`
+- luxon: `^1.4.4` → `^1.8.2`
+- npm-run-all: `^4.1.3` → `^4.1.5`
+- ts-jest: `^23.10.4` → `^23.10.5`
+- typescript: `^3.1.4` → `^3.2.2`
+
+### Commits
+[`c6aa6f78..c5e59590`](https://github.com/pagedip/happy-load/compare/c6aa6f784a7cebb1851857e77ab8a32cc596db4b..c5e5959012e600b64cec12edcfa3a5f90f72dff8)
+- [`c5e59590`](https://github.com/pagedip/happy-load/commit/c5e5959012e600b64cec12edcfa3a5f90f72dff8) Merge pull request #26 from pagedip/23-new-message
+- [`5476b907`](https://github.com/pagedip/happy-load/commit/5476b9073172d312525a4ad7d331393459d6d504) new message, closes #23
+- [`fe733c6b`](https://github.com/pagedip/happy-load/commit/fe733c6b6beb75ed3387f8ad0fc63134cbd56f0b) Merge pull request #25 from pagedip/update-deps
+- [`e6ed4852`](https://github.com/pagedip/happy-load/commit/e6ed4852436a539492f9f6f68d6843a9af593a9b) upgrade deps
+
+
 ## [2.5.0](https://github.com/pagedip/happy-load/tree/release/6/) - Nov 27, 2018
 
 ### Features
