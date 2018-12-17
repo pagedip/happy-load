@@ -1,3 +1,14 @@
+## [2.7.0](https://github.com/pagedip/happy-load/tree/release/8/) - Dec 17, 2018
+
+### Features
+- added message unboxing.yml
+
+### Commits
+[`f326bca0..bf135fc8`](https://github.com/pagedip/happy-load/compare/f326bca09b8074cb1cd6af644e3e98898ed4eed9..bf135fc8da4c151ec9c92ecc9bf14363de1eeb52)
+- [`bf135fc8`](https://github.com/pagedip/happy-load/commit/bf135fc8da4c151ec9c92ecc9bf14363de1eeb52) Merge pull request #27 from pagedip/24-brandon-message
+- [`a93dedcb`](https://github.com/pagedip/happy-load/commit/a93dedcbe4f64531568df5f18dcbaef64bd14faf) closes #24
+
+
 ## [2.6.0](https://github.com/pagedip/happy-load/tree/release/7/) - Dec 14, 2018
 
 ### Features
