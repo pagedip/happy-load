@@ -1,3 +1,14 @@
+## [2.8.0](https://github.com/pagedip/happy-load/tree/release/9/) - Jan 2, 2019
+
+### Features
+- added pagedip/robot-dream message
+
+### Commits
+[`50b9af32..b988140d`](https://github.com/pagedip/happy-load/compare/50b9af32eba3180a0dbd59c60dd8a7f063602767..b988140d38a3f78df9a46cc0f0d66f462d3044b0)
+- [`b988140d`](https://github.com/pagedip/happy-load/commit/b988140d38a3f78df9a46cc0f0d66f462d3044b0) Merge pull request #30 from pagedip/29-tyler
+- [`7d86eac7`](https://github.com/pagedip/happy-load/commit/7d86eac7cb67bba14f6d47fb6ed83606b91337ec) added pagedip/robot-dream message, closes #29
+
+
 ## [2.7.0](https://github.com/pagedip/happy-load/tree/release/8/) - Dec 17, 2018
 
 ### Features
