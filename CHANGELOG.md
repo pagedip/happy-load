@@ -1,3 +1,14 @@
+## [2.9.0](https://github.com/pagedip/happy-load/tree/release/10/) - Jan 14, 2019
+
+### Features
+- added pagedip/storytime
+
+### Commits
+[`9dc4579f..a6d0d96c`](https://github.com/pagedip/happy-load/compare/9dc4579f5ea711e1806355499f76a8664b68842d..a6d0d96cec8431a323ce8741fa30f6d5494d7604)
+- [`a6d0d96c`](https://github.com/pagedip/happy-load/commit/a6d0d96cec8431a323ce8741fa30f6d5494d7604) Merge pull request #32 from pagedip/31-noah
+- [`27ac1103`](https://github.com/pagedip/happy-load/commit/27ac11036caa9aff893151bc33c3ce6068dcd9b0) closes #31
+
+
 ## [2.8.0](https://github.com/pagedip/happy-load/tree/release/9/) - Jan 2, 2019
 
 ### Features
