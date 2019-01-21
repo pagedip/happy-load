@@ -1,3 +1,14 @@
+## [2.10.0](https://github.com/pagedip/happy-load/tree/release/11/) - Jan 21, 2019
+
+### Features
+- added time-loop.yml message
+
+### Commits
+[`e5143b28..83278a8c`](https://github.com/pagedip/happy-load/compare/e5143b281ed4185a86ecc1eb8951144fd97107e2..83278a8c3f68a0268a70e5d649b4bbf4445b754c)
+- [`83278a8c`](https://github.com/pagedip/happy-load/commit/83278a8c3f68a0268a70e5d649b4bbf4445b754c) Merge pull request #34 from pagedip/33-new-message
+- [`4ca2199d`](https://github.com/pagedip/happy-load/commit/4ca2199d1131e86a3e4540de0fe2822661dc3eec) closes #33
+
+
 ## [2.9.0](https://github.com/pagedip/happy-load/tree/release/10/) - Jan 14, 2019
 
 ### Features
