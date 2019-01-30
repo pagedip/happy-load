@@ -1,3 +1,16 @@
+## [2.11.0](https://github.com/pagedip/happy-load/tree/release/12/) - Jan 30, 2019
+
+### Features
+- Adding loading messages
+
+### Commits
+[`26fbd001..2bab0550`](https://github.com/pagedip/happy-load/compare/26fbd0013b40f80625b7b5017bd9373d985f6911..2bab0550d0eddc8bc6be7951fce8e2c607e51236)
+- [`2bab0550`](https://github.com/pagedip/happy-load/commit/2bab0550d0eddc8bc6be7951fce8e2c607e51236) Merge pull request #37 from pagedip/messages
+- [`9f1090f6`](https://github.com/pagedip/happy-load/commit/9f1090f6d65e1590b5078ad7c96edab88d86627c) closes #28
+- [`bc77fc08`](https://github.com/pagedip/happy-load/commit/bc77fc089c85b877b4bb4a4303b15e7555258313) Revert "closes #28"
+- [`7d9ef4f4`](https://github.com/pagedip/happy-load/commit/7d9ef4f4a12e85a90d780581a1202c2822105c01) closes #28
+
+
 ## [2.10.0](https://github.com/pagedip/happy-load/tree/release/11/) - Jan 21, 2019
 
 ### Features
