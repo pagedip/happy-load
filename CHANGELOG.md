@@ -1,3 +1,14 @@
+## [2.12.0](https://github.com/pagedip/happy-load/tree/release/13/) - Feb 7, 2019
+
+### Features
+- Added roses-violets message
+
+### Commits
+[`19d7c1df..753142b5`](https://github.com/pagedip/happy-load/compare/19d7c1dfde0fac394a240fe779b69ae439057411..753142b5b751ce7238b12d645d38bc88e2057f3a)
+- [`753142b5`](https://github.com/pagedip/happy-load/commit/753142b5b751ce7238b12d645d38bc88e2057f3a) Merge pull request #39 from pagedip/36-tyler
+- [`783fc281`](https://github.com/pagedip/happy-load/commit/783fc281962ed1dd04067d548bc48973c826874e) add roses-violets message, closes #36
+
+
 ## [2.11.0](https://github.com/pagedip/happy-load/tree/release/12/) - Jan 30, 2019
 
 ### Features
