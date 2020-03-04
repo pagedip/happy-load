@@ -2,6 +2,3 @@ node_modules/
 /happy-load.json
 docs/
 lib/
-
-# TODO https://github.com/yarnpkg/yarn/issues/3330
-yarn.lock
