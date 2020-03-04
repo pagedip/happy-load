@@ -1,3 +1,6 @@
+import fs from "fs";
+import path from "path";
+
 export interface LoadMessage {
   text?: string;
   subtext?: string;
@@ -15,7 +18,9 @@ export interface Data {
   };
 }
 
-export const data: Data = require("../happy-load.json");
+export const data: Data = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "../happy-load.json"), "utf8")
+);
 
 /**
  * Returns an array of all loading message objects. Provide a source to get messages for just that source.
