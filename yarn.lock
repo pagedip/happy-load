@@ -525,7 +525,7 @@
 
 "@pagedip/lib-app@^2.1.12":
   version "2.1.12"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/lib-app/-/lib-app-2.1.12.tgz#f716ea20139bf3628482d3800e5b94a8c7fda5d4"
+  resolved "https://registry.yarnpkg.com/@pagedip/lib-app/-/lib-app-2.1.12.tgz#f716ea20139bf3628482d3800e5b94a8c7fda5d4"
   integrity sha512-3wFmJLzO19nOSVZEJYoG5ORD3/59at3Zbh7Cb5U5hUK2/e3Ecio3USZNoVUzNXTdjxmnqeq3TeONGzf6ZvxNmQ==
   dependencies:
     "@pagedip/lib-observer" "^2.1.6"
@@ -536,7 +536,7 @@
 
 "@pagedip/lib-cli@^1.4.13":
   version "1.4.13"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/lib-cli/-/lib-cli-1.4.13.tgz#effde2e1b07834eb83320d17c9ca1a36810c074a"
+  resolved "https://registry.yarnpkg.com/@pagedip/lib-cli/-/lib-cli-1.4.13.tgz#effde2e1b07834eb83320d17c9ca1a36810c074a"
   integrity sha512-CbYOtirQE8lITqyQKAsx60bpDis1VsGiTEpgsKUFtk8hLYnLQ3CDdKnUPgg6h1UBBmHo5KHqcVs3b+CEslgsNQ==
   dependencies:
     "@pagedip/lib-app" "^2.1.12"
@@ -552,14 +552,14 @@
 
 "@pagedip/lib-observer@^2.1.6", "@pagedip/lib-observer@^2.1.7":
   version "2.1.7"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/lib-observer/-/lib-observer-2.1.7.tgz#febb81d30cd7608c87a57e1f52860a6b536b46e0"
+  resolved "https://registry.yarnpkg.com/@pagedip/lib-observer/-/lib-observer-2.1.7.tgz#febb81d30cd7608c87a57e1f52860a6b536b46e0"
   integrity sha512-WM5mAlo1cE5zW8TTbeM0kuPUqMpNmtx3T5FgWxQFTJCgw4yvVeGx5SmzZj1zFwCGM5A03oyP0q2M9mn4C2dL2w==
   dependencies:
     tslib "^1.9.3"
 
 "@pagedip/lib-rc@^2.1.22":
   version "2.1.22"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/lib-rc/-/lib-rc-2.1.22.tgz#85b53f7ae87d69dde128ec7bccd3d06e93705a22"
+  resolved "https://registry.yarnpkg.com/@pagedip/lib-rc/-/lib-rc-2.1.22.tgz#85b53f7ae87d69dde128ec7bccd3d06e93705a22"
   integrity sha512-CXwqzbK8YYpqdEgY6ZM3OE37K3J4KHrVir0iUHarXMbz4xH4al5Y4KLX0B8X+Hz4W5nlvqxbJBo+xh4PVf27sA==
   dependencies:
     "@pagedip/util-find-files" "^1.0.5"
@@ -572,7 +572,7 @@
 
 "@pagedip/tool-autorelease@^3.5.0":
   version "3.7.2"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/tool-autorelease/-/tool-autorelease-3.7.2.tgz#cc1581c736eb3e7808332df97c7a345464ffe9ce"
+  resolved "https://registry.yarnpkg.com/@pagedip/tool-autorelease/-/tool-autorelease-3.7.2.tgz#cc1581c736eb3e7808332df97c7a345464ffe9ce"
   integrity sha512-2lrb+q8gJrbfVg4vQJFtu+WQ6IXQ61oNjZl7AMGmukPPSII2kDnR2jEqZeSJ7DLgwXFXQ/+cp88h2MFGzVLVcQ==
   dependencies:
     "@lerna/batch-packages" "^3.13.0"
@@ -608,7 +608,7 @@
 
 "@pagedip/util-error@^2.0.16":
   version "2.0.16"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-error/-/util-error-2.0.16.tgz#aa4dbbccbb4b0aa124ed72789621a17a2357eca6"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-error/-/util-error-2.0.16.tgz#aa4dbbccbb4b0aa124ed72789621a17a2357eca6"
   integrity sha512-W8yF+BI7n19M4yMiur8oDUVk+TV4mzZO8fwfqGrZEdMzdKJW/UDKuTXUJid+vFyNTHAfWM1879GuzR+/ArlTrA==
   dependencies:
     "@pagedip/util-prop-helpers" "^1.2.6"
@@ -617,14 +617,14 @@
 
 "@pagedip/util-find-files@^1.0.5":
   version "1.0.5"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-find-files/-/util-find-files-1.0.5.tgz#da2a42dcb20f45ab9b8b5be5388c8878ca131ecf"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-find-files/-/util-find-files-1.0.5.tgz#da2a42dcb20f45ab9b8b5be5388c8878ca131ecf"
   integrity sha512-wN3fO/E6rl1CZMobKneipBkeuKdv27g5LY4p8iWDgxzO3AcIqO5mtTpASUt14zCtHLsVxFa3o+VKd9F9mFyfeg==
   dependencies:
     mz "^2.7.0"
 
 "@pagedip/util-lerna@^1.0.0":
   version "1.0.0"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-lerna/-/util-lerna-1.0.0.tgz#98306e28349d4bbb74aff3f51304a00ec70e74ac"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-lerna/-/util-lerna-1.0.0.tgz#98306e28349d4bbb74aff3f51304a00ec70e74ac"
   integrity sha512-wy0k/M85b9C6hn1/FlU7KeswiAIreTYbRYV3DbW6knAb8vIk1S+A3dPNYBj1R8P5uXd8ho+glgT+qiTYbDA5DQ==
   dependencies:
     "@lerna/batch-packages" "^3.13.0"
@@ -636,7 +636,7 @@
 
 "@pagedip/util-logger@^2.2.6":
   version "2.2.6"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-logger/-/util-logger-2.2.6.tgz#0107ed6cd7eab23bcf596a1dc460277844084c28"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-logger/-/util-logger-2.2.6.tgz#0107ed6cd7eab23bcf596a1dc460277844084c28"
   integrity sha512-qULpBSInuiNGR3c6PqWEad9P36pFEZQ9swBkbJPTIKhyYruq/C8P9Sj7GoP6oz0N9QMUKBgUedHdRz+qS0pJTA==
   dependencies:
     "@pagedip/util-prop-helpers" "^1.2.6"
@@ -647,14 +647,14 @@
 
 "@pagedip/util-merge-plain-objects@^2.1.5":
   version "2.1.5"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-merge-plain-objects/-/util-merge-plain-objects-2.1.5.tgz#2884f969a07c58857800623aee5eeb55ca55c42f"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-merge-plain-objects/-/util-merge-plain-objects-2.1.5.tgz#2884f969a07c58857800623aee5eeb55ca55c42f"
   integrity sha512-5dfsYdUFLqH+U5kjw70S4ukOu57Ftm3KCjSldppsNAZY+MZPfNEZqm4rGWouYOgH/ky5rYKOnOCdnRMRcLTvyw==
   dependencies:
     tslib "^1.9.3"
 
 "@pagedip/util-npm@^3.0.2":
   version "3.0.2"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-npm/-/util-npm-3.0.2.tgz#3d43ffc85f9f8d4aadfecc0bf525eec75741ac12"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-npm/-/util-npm-3.0.2.tgz#3d43ffc85f9f8d4aadfecc0bf525eec75741ac12"
   integrity sha512-D8d7JE+dzdc9IKOvZIJVTUycy+AbuY3YQ5BbfCv5UdCRpOY7/bgwP9H88KJqGQdT82Jo3a3HhXp6nDZdS55L7w==
   dependencies:
     "@pagedip/util-logger" "^2.2.6"
@@ -669,14 +669,14 @@
 
 "@pagedip/util-promise@^3.4.3":
   version "3.4.3"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-promise/-/util-promise-3.4.3.tgz#d8bc428bb8e63f33f047c572f5c654bb4451335e"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-promise/-/util-promise-3.4.3.tgz#d8bc428bb8e63f33f047c572f5c654bb4451335e"
   integrity sha512-NfB1Wh2MIHu44Z5WscZHQTT7tFX5UnY/IRJN0vbIvEauL/kjRzpsJvseS61sgMZFzsUlcSvtQ9q1ucQ2Q3g4FQ==
   dependencies:
     tslib "^1.9.3"
 
 "@pagedip/util-prop-helpers@^1.2.6":
   version "1.2.6"
-  resolved "http://license.system.pagedip.com/npm/@pagedip/util-prop-helpers/-/util-prop-helpers-1.2.6.tgz#30d7af86f3cb502e04e50908ff6f6597c2d070a9"
+  resolved "https://registry.yarnpkg.com/@pagedip/util-prop-helpers/-/util-prop-helpers-1.2.6.tgz#30d7af86f3cb502e04e50908ff6f6597c2d070a9"
   integrity sha512-ft4E9qmpuE5XhUhZixPKrG5VW2HVmy3qGq1Vk3u8mMdnwKyodWfj9btl15Ma6OIpCcapk1zrb8/8raspXBm5qg==
   dependencies:
     tslib "^1.9.3"
