@@ -1,5 +1,4 @@
 breaking:
 features:
 fixes:
-  - Switch back to using require for browsers.
 chores:
