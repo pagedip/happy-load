@@ -1,3 +1,18 @@
+## [2.12.2](https://github.com/pagedip/happy-load/tree/release/15/) - Mar 4, 2020
+
+### Fixes
+- Switch back to using require for browsers.
+
+### Commits
+[`565ba6e2..194a7871`](https://github.com/pagedip/happy-load/compare/565ba6e2a4f0d70bd0fcd39e72b8c7d38ba38686..194a78718a8c7ca3b86126a6832fc1940a66df19)
+- [`194a7871`](https://github.com/pagedip/happy-load/commit/194a78718a8c7ca3b86126a6832fc1940a66df19) Merge pull request #41 from pagedip/develop
+- [`5d5b29b5`](https://github.com/pagedip/happy-load/commit/5d5b29b59eb00ed07ad6cb6ef1bdf99ce3cf3573) configure npm to use main registry for pagedip packages
+- [`1515e8be`](https://github.com/pagedip/happy-load/commit/1515e8be24472e70f8f3b91a221718d9d55d1fb8) add yarn lock file
+- [`89cf531c`](https://github.com/pagedip/happy-load/commit/89cf531c90e1a98e11899079c72ed854b9aecd44) switch back to using require for browsers
+- [`e2dc4776`](https://github.com/pagedip/happy-load/commit/e2dc47765498ed6e4ed1ae78b6bd6376d73f86a1) Merge remote-tracking branch 'origin/master' into develop
+- [`1f370654`](https://github.com/pagedip/happy-load/commit/1f37065478b440d282e8bcbeefdac30055dc29f7) update travis config
+
+
 ## [2.12.1](https://github.com/pagedip/happy-load/tree/release/14/) - Mar 4, 2020
 
 ### Fixes
