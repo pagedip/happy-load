@@ -1,5 +1,4 @@
-import fs from "fs";
-import path from "path";
+/* eslint-disable @typescript-eslint/no-var-requires */
 
 export interface LoadMessage {
   text?: string;
@@ -18,9 +17,7 @@ export interface Data {
   };
 }
 
-export const data: Data = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "../happy-load.json"), "utf8")
-);
+export const data: Data = require("../happy-load.json");
 
 /**
  * Returns an array of all loading message objects. Provide a source to get messages for just that source.
