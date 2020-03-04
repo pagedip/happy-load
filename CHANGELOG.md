@@ -1,3 +1,30 @@
+## [2.12.1](https://github.com/pagedip/happy-load/tree/release/14/) - Mar 4, 2020
+
+### Fixes
+- Updated the build process.
+
+### Dependencies
+- @octokit/rest: `^16.2.0` → `^17.0.0`
+- @types/jest: `^23.3.10` → `^25.1.3`
+- @types/node: `^10.12.15` → `^13.7.7`
+- @typescript-eslint/eslint-plugin: none → `^2.22.0`
+- @typescript-eslint/parser: none → `^2.22.0`
+- eslint: none → `^6.8.0`
+- eslint-config-prettier: none → `^6.10.0`
+- eslint-plugin-prettier: none → `^3.1.2`
+- jest: `^23.6.0` → `^25.1.0`
+- ts-jest: `^23.10.5` → `^25.2.1`
+- ts-node: none → `^8.6.2`
+- typedoc: `^0.13.0` → `^0.16.11`
+- typescript: `^3.2.2` → `^3.8.3`
+
+### Commits
+[`c70d4a00..d77a73d2`](https://github.com/pagedip/happy-load/compare/c70d4a00ca96c2a3a5a277c26ed011a561a892c8..d77a73d2cc8892e65636ba8d9358d24188d2349d)
+- [`d77a73d2`](https://github.com/pagedip/happy-load/commit/d77a73d2cc8892e65636ba8d9358d24188d2349d) Merge pull request #40 from pagedip/develop
+- [`aa615300`](https://github.com/pagedip/happy-load/commit/aa615300690fed0b26d7dff124c19ce28f38aea1) remove misleading loading messages
+- [`1de5ae57`](https://github.com/pagedip/happy-load/commit/1de5ae574d0334ab03b64c84b6e21e2e83c3cef9) update build process
+
+
 ## [2.12.0](https://github.com/pagedip/happy-load/tree/release/13/) - Feb 7, 2019
 
 ### Features
